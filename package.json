@@ -1,6 +1,0 @@
-{
-  "name": "italiens-du-sud-ouest",
-  "private": true,
-  "type": "module",
-  "dependencies": { "@vercel/blob": "^1.0.0" }
-}
